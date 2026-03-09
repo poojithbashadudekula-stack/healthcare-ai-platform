@@ -1,0 +1,5 @@
+fever,cough,breath_problem,disease
+1,1,1,Pneumonia
+1,1,0,Flu
+0,1,0,Cold
+1,0,0,Viral Fever
